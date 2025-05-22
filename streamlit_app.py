@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+st.title("Village Health Laundry")
+st.text("Welcome to village health laundry Application")
+st.button("Book A wash")
+st.button("register a customer")
+st.button("View all Bookings") 
